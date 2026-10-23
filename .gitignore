@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+# 本地放进去的素材不进仓库（授权没落实，见 README 与 LICENSE）
+assets/
+# 截图只留 docs/preview.png 一份
+test/shot-*.png

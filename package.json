@@ -1,0 +1,42 @@
+{
+  "name": "dsh-jingniang-pet",
+  "version": "0.1.0",
+  "description": "鲸娘：趴在 DeepSeek Harness 输入框右上角的像素桌宠，跟着对话状态换动作",
+  "type": "module",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "author": "huangxicheng1",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "pet",
+    "desktop-pet",
+    "pixel-art",
+    "whale"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangxicheng1/dsh-jingniang-pet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huangxicheng1/dsh-jingniang-pet/issues"
+  },
+  "homepage": "https://github.com/huangxicheng1/dsh-jingniang-pet#readme",
+  "files": [
+    "lib",
+    "client",
+    "assets",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "engines": {
+      "dsh": ">=0.2.1-rc.2"
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

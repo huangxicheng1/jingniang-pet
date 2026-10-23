@@ -1,0 +1,11 @@
+# ============================================================================
+# dsh-jingniang-pet —— 把这一行插件插进 profile 的配置树
+# ============================================================================
+# 安装：
+#   dsh plugin --profile desktop add link:"D:\deepseek\桌宠\jingniang-pet"
+# 卸载：把下面 id 写成 disabled: true，或 dsh plugin remove。
+# ============================================================================
+
+- insert:
+    - id: jingniang-pet
+      name: dsh-jingniang-pet
