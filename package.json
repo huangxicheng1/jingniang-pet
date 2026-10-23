@@ -1,7 +1,7 @@
 {
   "name": "dsh-jingniang-pet",
   "version": "0.1.0",
-  "description": "鲸娘：趴在 DeepSeek Harness 输入框右上角的像素桌宠，跟着对话状态换动作",
+  "description": "椴稿锛氳洞鍦?DeepSeek Harness 杈撳叆妗嗗彸涓婅鐨勫儚绱犳瀹狅紝璺熺潃瀵硅瘽鐘舵€佹崲鍔ㄤ綔",
   "type": "module",
   "main": "lib/index.js",
   "license": "MIT",
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huangxicheng1/dsh-jingniang-pet.git"
+    "url": "git+https://github.com/huangxicheng1/jingniang-pet.git"
   },
   "bugs": {
-    "url": "https://github.com/huangxicheng1/dsh-jingniang-pet/issues"
+    "url": "https://github.com/huangxicheng1/jingniang-pet/issues"
   },
-  "homepage": "https://github.com/huangxicheng1/dsh-jingniang-pet#readme",
+  "homepage": "https://github.com/huangxicheng1/jingniang-pet#readme",
   "files": [
     "lib",
     "client",
